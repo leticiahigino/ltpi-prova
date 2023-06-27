@@ -1,6 +1,6 @@
 # ltpi-prova
 avaliação segundo bimestre
 
-Letícia Correia
-Letícia Higino
-Karen 
+Letícia Correia  
+Letícia Higino  
+Karen   
